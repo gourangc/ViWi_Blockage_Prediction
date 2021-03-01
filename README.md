@@ -1,1 +1,1 @@
-# ViWi_Blockage_Prediction
+# Vision-Aided 6G Wireless Communications: Blockage Prediction and Proactive Handoff
